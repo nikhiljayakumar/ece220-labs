@@ -1,5 +1,5 @@
 # ECE 220 (su24) repo for NetID: nikhilj5
 
-GitHub username at initialization time: nikhiljayakumar
+As course is currently in progress, labs and MPs are not completly done.
 
-For next steps, please refer to the instructions provided by your course.
+Labs regarding LC-3 subroutines and data structures (MP 1, 2) and C programming (MP 3, 4, 5, 6)
