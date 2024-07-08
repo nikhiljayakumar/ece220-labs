@@ -3,3 +3,5 @@
 As course is currently in progress, labs and MPs are not completly done.
 
 Labs regarding LC-3 subroutines and data structures (MP 1, 2) and C programming (MP 3, 4, 5, 6)
+
+To see the assignment of each MP, navigate to the "readme.pdf" file in the appropriate folder.
