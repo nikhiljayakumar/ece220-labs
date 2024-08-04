@@ -1,5 +1,5 @@
-# ECE 220 (su24) repo for NetID: nikhilj5
+# ECE 220 Labs and Machine Problems
 
-As course is currently in progress, labs and MPs are not completly done.
+Machine Problems and Labs from ECE 220 at the University of Illinois Urbana-Champaign
 
-Labs regarding LC-3 subroutines and data structures (MP 1, 2) and C programming (MP 3, 4, 5, 6)
+Concepts include assembly, C, C++, data structures and algorithms. Visit the associated `readme.pdf` of every mp folder to see problem statement.
